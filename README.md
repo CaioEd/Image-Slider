@@ -1,4 +1,3 @@
-Image slider with foward and back buttons.
 <h1 align="center">Image-Slider</h1>
  <p align="center"> <strong>Image slider with foward and back buttons.</strong> </p>
  <br>
